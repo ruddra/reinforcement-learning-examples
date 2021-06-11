@@ -11,7 +11,7 @@ This repository contains codes for different reinforcement learning techniques t
 ### SARSA
 
 1. [Shortest path in undirected graph](/SARSA/shortest_path.ipynb)
-2. [Frozen Lake using OpenAI Gym](/SARSA/frozen_lake.ipynb)
+2. [Frozen Lake using OpenAI Gym](/SARSA/openai_frozen_lake.ipynb)
 
 ## Usage
 
