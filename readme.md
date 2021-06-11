@@ -6,10 +6,10 @@ This repository contains codes for different reinforcement learning techniques t
 ## Algorithms
 
 ### Q-Learning
-1. [Shortest path in undirected graph](/blob/master/q-learning/shortest_path.ipynb)
+1. [Shortest path in undirected graph](/q-learning/shortest_path.ipynb)
 
 ### SARSA
-1. [Shortest path in undirected graph](/blob/master/SARSA/shortest_path.ipynb)
+1. [Shortest path in undirected graph](/SARSA/shortest_path.ipynb)
 
 
 ## Usage
