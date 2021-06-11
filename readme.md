@@ -7,6 +7,7 @@ This repository contains codes for different reinforcement learning techniques t
 ### Q-Learning
 
 1. [Shortest path in undirected graph](/q-learning/shortest_path.ipynb)
+2. [Cart Pole Balancing using OpenAI Gym](/q-learning/openai-cart-pole.ipynb)
 
 ### SARSA
 
